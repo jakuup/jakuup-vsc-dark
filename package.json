@@ -1,0 +1,21 @@
+{
+  "name": "jakuup-vsc-dark",
+  "displayName": "Jakuup Dark",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Jakuup Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Jakuup Dark-color-theme.json"
+      }
+    ]
+  }
+}
